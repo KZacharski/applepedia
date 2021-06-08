@@ -63,4 +63,40 @@ font-family: 'Nunito', sans-serif;
 	  transition-duration: 0.4s;
 } .watch:hover {
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}.tv {
+	background-color: #c70000;
+	color: white;
+	font-size: 24px;
+	font-family: 'Nunito', sans-serif;
+	padding: 16px;
+	border-radius: 12px;
+	border: 0px;
+	-webkit-transition-duration: 0.4s;
+	  transition-duration: 0.4s;
+} .tv:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}.other {
+	background-color: #9700c6;
+	color: white;
+	font-size: 24px;
+	font-family: 'Nunito', sans-serif;
+	padding: 16px;
+	border-radius: 12px;
+	border: 0px;
+	-webkit-transition-duration: 0.4s;
+	  transition-duration: 0.4s;
+} .other:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}.accessories {
+	background-color: #5f5f5f;
+	color: white;
+	font-size: 24px;
+	font-family: 'Nunito', sans-serif;
+	padding: 16px;
+	border-radius: 12px;
+	border: 0px;
+	-webkit-transition-duration: 0.4s;
+	  transition-duration: 0.4s;
+} .accessories:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
