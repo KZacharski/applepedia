@@ -6,6 +6,8 @@ display: flex;
   justify-content: center;
 } header {
 	text-align: center;
+} button {
+	margin: 5px;
 } .iphone {
 	background-color: #000000;
 	color: white;
@@ -110,4 +112,6 @@ display: flex;
 } main {
 	align-self: center;
 
+} footer {
+	text-align: center;
 }
